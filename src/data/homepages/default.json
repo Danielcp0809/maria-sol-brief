@@ -140,7 +140,7 @@
                     ],
                     "path": "#!",
                     "likeCount": 600,
-                    "url": ""
+                    "url": "https://www.kriptos.io/"
                 },
                 {
                     "id": 2,
@@ -164,7 +164,7 @@
                     ],
                     "path": "#!",
                     "likeCount": 750,
-                    "url": ""
+                    "url": "https://www.instagram.com/ushops.market/?hl=es"
                 },
                 {
                     "id": 3,
@@ -183,12 +183,12 @@
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-03.jpg"
+                            "src": "../images/portfolio/clickgas.png"
                         }
                     ],
                     "path": "#!",
                     "likeCount": 630,
-                    "url": ""
+                    "url": "http://www.clickgas.app.s3-website-us-west-2.amazonaws.com/home"
                 },
                 {
                     "id": 4,
@@ -201,12 +201,12 @@
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-06.jpg"
+                            "src": "../images/portfolio/ims.png"
                         }
                     ],
                     "path": "#!",
                     "likeCount": 600,
-                    "url": ""
+                    "url": "http://ims-page.s3-website-us-west-2.amazonaws.com/home"
                 },
                 {
                     "id": 5,
@@ -222,12 +222,12 @@
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-03.jpg"
+                            "src": "../images/portfolio/globalcopiers.png"
                         }
                     ],
                     "path": "#!",
                     "likeCount": 630,
-                    "url": ""
+                    "url": "https://globalcopiesdev.web.app/"
                 },
                 {
                     "id": 6,
@@ -259,15 +259,15 @@
                     "category": "Project Manager & UX/UI Designer",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "Together with the IOM, UNODC, and the Ministry of Government, we developed a dashboard that allows visualizing statistical data and an interactive map of the crimes of trafficking in persons and smuggling of migrants in Ecuador."
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "In this project, I enjoyed managing software development and interface design. Additionally, I learned to communicate with managers of government entities in the follow-up sessions and presentation of project results."
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-05.jpg"
+                            "src": "../images/portfolio/oim.png"
                         }
                     ],
                     "path": "#!",
@@ -280,10 +280,13 @@
                     "category": "Team Leader",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "Bummler was a business idea that allows large and small businesses to create a more innovative advertising strategy based on their geolocation, using an advertising technique to target consumers based on their physical location through a small device called Beacon and a mobile application. "
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "This solution was intended to eliminate printed advertising such as flyers and avoid contact between people and promoters. "
+                        },
+                        {
+                            "content": "My central role in this project was to be the product manager. I specialized in product design and development with a leadership position within the project with the skills to handle various tasks and lead a cross-functional team in the product ideation stage. product"
                         }
                     ],
                     "images": [
@@ -293,7 +296,7 @@
                     ],
                     "path": "#!",
                     "likeCount": 600,
-                    "url": ""
+                    "url": "https://youtu.be/3PPCMTyG65s"
                 },
                 {
                     "id": 9,
@@ -309,7 +312,7 @@
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-06.jpg"
+                            "src": "../images/portfolio/smet.png"
                         }
                     ],
                     "path": "#!",
@@ -322,10 +325,13 @@
                     "category": "Team Leader & Product manager",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "This project is based on the need to move from one place to another without suffering mishaps in a blind person. A bracelet consists of an ultrasonic sensor that will emit a slight vibration when an object around it is detected. It is a social project that seeks to raise the standard of living of these people with disabilities. Additional functions are incorporated to capture different market areas, making the project more economically profitable. ."
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "It is a bracelet that will emit an alarm when the person leaves their residence to facilitate the safety of the person with different abilities—expanding the market field to people who have recently undergone eye surgery. "
+                        },
+                        {
+                            "content": "As a project manager, I ensure that the work is done efficiently and satisfactorily. I was in charge of setting and managing client expectations, developing a detailed project plan, defining the project's scope, and assigning team members to specific tasks depending on each of the skills."
                         }
                     ],
                     "images": [
@@ -343,20 +349,23 @@
                     "category": "Engineering Management",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "The work tries to identify which thermal factors relate the environment temperature and the body temperature with the emotion's students at smart classroom, where after the work tries to determine which thermal factors relate the environment temperature and the body temperature with the emotion's students at smart classroom, where after will be getting a social point about the emotion students by reference to the controller."
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "Experimental tests are performed with students of the National Polytechnic School to identify common emotions and how the change in external temperature and other factors influence the student's feelings and internal temperature. "
+                        },
+                        {
+                            "content": "I had the opportunity to be the owner of the creative process of each of the stages of the project, who defined what should apply ideas to promote the essential objectives of the project. She designed external strategies through market research and technological research to analyze user expectations."
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-06.jpg"
+                            "src": "../images/portfolio/classroom.png"
                         }
                     ],
                     "path": "#!",
                     "likeCount": 600,
-                    "url": ""
+                    "url": "https://www.researchgate.net/publication/344652127_Fuzzy_Control_of_Temperature_on_SACI_Based_on_the_Emotion_Recognition"
                 },
                 {
                     "id": 12,
@@ -364,10 +373,10 @@
                     "category": "Research Engineer",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "The general objective of this work is to design and implement advanced control techniques, nonlinear PI, sliding mode control, and control by numerical methods based on linear algebra applied to the FESTO reactor station of the Industrial Process Control laboratory."
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "With this project, I had the opportunity to manage the research, present a scientific article at an international level, and give the study to various engineering experts worldwide."
                         }
                     ],
                     "images": [
@@ -377,7 +386,7 @@
                     ],
                     "path": "#!",
                     "likeCount": 600,
-                    "url": ""
+                    "url": "https://www.researchgate.net/publication/345150496_A_comparison_of_different_temperature_control_techniques_for_a_reactor_station"
                 },
                 {
                     "id": 13,
@@ -385,10 +394,13 @@
                     "category": "Robotics Developer",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "My passion for design and robotics prompted me to create PRIME BOT robot."
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "It was my little personal project in college which I built and programmed with the help of a great friend. It allowed me to lead the dance team in the robotics club to mentor the new members."
+                        },
+                        {
+                            "content": "This small humanoid robot has participated in multiple competitions, always finishing among the first three places."
                         }
                     ],
                     "images": [
@@ -817,51 +829,66 @@
             "section": "testimonial-section",
             "section_title": {
                 "title": "Testimonial",
-                "subtitle": "What Clients Say"
+                "subtitle": "What My Contacts Say"
             },
             "items": [
                 {
                     "id": 1,
-                    "title": "Nevine Acotanza",
-                    "subtitle": "Rainbow-Themes",
-                    "designation": "Chief Operating Officer",
-                    "projectTitle": "Android App Development",
-                    "projectMeta": "via Upwork - Mar 4, 2015 - Aug 30, 2021",
+                    "title": "Alfonzo Villalba",
+                    "subtitle": "Kriptos",
+                    "designation": "COO at Kriptos / Techstart '18 / Cybersecurity / IA",
+                    "projectTitle": "Product Implementation specialist",
+                    "projectMeta": "Linkedin - Feb, 2021 - Present",
                     "rating": "5",
-                    "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris .",
+                    "description": "Maria Sol is one of the most proactive and efficient people I have ever met. She is a great professional with extensive knowledge in customer service and support, product development, and technology. She has been of great help at Kriptos to improve our internal processes and facilitate the adoption and implementation of our product in our customers in more than seven countries in which we operate.",
                     "images": [
                         {
-                            "src": "../images/testimonial/final-home--1st.png"
+                            "src": "../images/testimonial/alfonso.jpg"
                         }
                     ]
                 },
                 {
                     "id": 2,
-                    "title": "Jone Duone Joe",
-                    "subtitle": "Bound - Trolola",
-                    "designation": "Operating Officer",
-                    "projectTitle": "Web App Development",
-                    "projectMeta": "Upwork - Mar 4, 2016 - Aug 30, 2021",
-                    "rating": "4",
-                    "description": "Important fact to nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris.",
+                    "title": "Laura Salazar",
+                    "subtitle": "Kriptos",
+                    "designation": "Growth Marketing | Digital Marketing | Communication | Strategy | Product Owner",
+                    "projectTitle": "Product Implementation specialist",
+                    "projectMeta": "Linkedin - Feb, 2021 - Present",
+                    "rating": "5",
+                    "description": "Sol is a great teammate; She always seeks essential customer service, involving all areas and considering each one of those involved. She is a restless person who always wants to learn and have more knowledge. Her leadership is undeniable.",
                     "images": [
                         {
-                            "src": "../images/testimonial/final-home--2nd.png"
+                            "src": "../images/testimonial/laura.jpg"
                         }
                     ]
                 },
                 {
                     "id": 3,
-                    "title": "Nevine Dhawan",
-                    "subtitle": "Glassfisom",
-                    "designation": "CEO Of Officer",
-                    "projectTitle": "Android App Design",
-                    "projectMeta": "Fiver - Mar 4, 2015 - Aug 30, 2021",
+                    "title": "Daniel Méndez",
+                    "subtitle": "Kriptos",
+                    "designation": "Senior Software Engineer at Kriptos",
+                    "projectTitle": "Product Implementation specialist",
+                    "projectMeta": "Linkedin - Feb, 2021 - Present",
                     "rating": "5",
-                    "description": "No more question for design. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris .",
+                    "description": "Sol is a very innovative and brilliant person. Whenever I have the honor of working with her, I end up very happy and satisfied with her excellent work. She perfectly understands the business and the technological part. She knows how to combine the two areas perfectly, always thinking about the clients and thinking about the technology team. She learns everything very quickly and loves to give everything of herself in my workplace. She is a person who is always learning more about her professional skills and her soft skills; with her, you always know something interesting.",
                     "images": [
                         {
-                            "src": "../images/testimonial/final-home--3rd.png"
+                            "src": "../images/testimonial/danielmendez.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Daniel Córdova",
+                    "subtitle": "SlonCORP / Automated desicion",
+                    "designation": "Full-stack software developer",
+                    "projectTitle": "Product Implementation specialist",
+                    "projectMeta": "Linkedin - Feb, 2021 - Present",
+                    "rating": "5",
+                    "description": "Maria sol is an excellent person, partner and friend. Her professionalism is impeccable because she works very hard at what she likes. As a leader she is strict but kind, ambitious but careful, direct but friendly and always seeks the well-being of her team.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/danielcordova.jpg"
                         }
                     ]
                 }
@@ -1333,79 +1360,6 @@
                 {
                     "id": "pricing-standard",
                     "inner_title": "My Hobbies",
-                    "title": "My favorite and fun part of my life",
-                    "is_featured": false,
-                    "price": "$50.00",
-                    "description": "Not everything in life is work!. I think everyone must have at least one fun activity to bring some balance to their life, I have the following:",
-                    "items": [
-                        {
-                            "id": 1,
-                            "title": "Play drums",
-                            "available": true
-                        },
-                        {
-                            "id": 2,
-                            "title": "Play pianno",
-                            "available": true
-                        },
-                        {
-                            "id": 3,
-                            "title": "Play tennis",
-                            "available": true
-                        },
-                        {
-                            "id": 4,
-                            "title": "Go Swimming",
-                            "available": true
-                        },
-                        {
-                            "id": 5,
-                            "title": "Graphic Design",
-                            "available": true
-                        },
-                        {
-                            "id": 6,
-                            "title": "Teaching Robotics",
-                            "available": true
-                        },
-                        {
-                            "id": 7,
-                            "title": "Go Shopping",
-                            "available": true
-                        },
-                        {
-                            "id": 8,
-                            "title": "Listen music",
-                            "available": true
-                        },
-                        {
-                            "id": 9,
-                            "title": "Do craftwork",
-                            "available": true
-                        },
-                        {
-                            "id": 10,
-                            "title": "Hang out with friends",
-                            "available": true
-                        },
-                        {
-                            "id": 11,
-                            "title": "Travel",
-                            "available": true
-                        },
-                        {
-                            "id": 12,
-                            "title": "Go to the movies",
-                            "available": true
-                        }
-                    ],
-                    "orderLink": "#!",
-                    "deliveryTime": 2,
-                    "revission": "Unlimited"
-                },
-                {
-                    "id": "pricing-premium",
-                    "inner_title": "Interviews",
                     "title": "My favorite and fun part of my life",
                     "is_featured": false,
                     "price": "$50.00",

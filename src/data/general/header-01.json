@@ -4,11 +4,11 @@
 
     "logo": [
         {
-            "src": "../images/logo/logo.png"
+            "src": "../images/logo/logo-sol.png"
         },
         {
-            "src": "../images/logo/logo.png"
+            "src": "../images/logo/logo-sol.png"
         }
     ],
-    "slogan": "Inbio is a personal portfolio template. You can customize all."
+    "slogan": "Be always better than yesterday."
 }

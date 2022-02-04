@@ -50,13 +50,13 @@ const IndexPage = ({ data }) => {
                 <TestimonialArea data={content["testimonial-section"]} />
                 <ClientArea data={content["client-section"]} />
                 <PricingArea data={content["pricing-section"]} />
-                <BlogArea
+                {/* <BlogArea
                     data={{
                         ...content["blog-section"],
                         blogs: data?.allArticle?.nodes,
                     }}
-                />
-                <ContactArea
+                /> */}
+                {/* <ContactArea
                     data={{
                         ...content["contact-section"],
                         socials: data.site.siteMetadata.socials,
@@ -64,7 +64,7 @@ const IndexPage = ({ data }) => {
                         email: data.site.siteMetadata?.contact?.email,
                         getform_url: data.site.siteMetadata?.getform_url,
                     }}
-                />
+                /> */}
             </main>
             <Footer data={{ ...data.footer }} className="section-separator" />
         </Layout>
