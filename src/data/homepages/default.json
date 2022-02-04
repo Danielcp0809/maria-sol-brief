@@ -399,48 +399,6 @@
                     "path": "#!",
                     "likeCount": 600,
                     "url": ""
-                },
-                {
-                    "id": 14,
-                    "title": "IES - Industrial Electronic Society",
-                    "category": "Team Leader",
-                    "texts": [
-                        {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
-                        },
-                        {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
-                        }
-                    ],
-                    "images": [
-                        {
-                            "src": "../images/portfolio/portfolio-06.jpg"
-                        }
-                    ],
-                    "path": "#!",
-                    "likeCount": 600,
-                    "url": ""
-                },
-                {
-                    "id": 15,
-                    "title": "Robotics Group",
-                    "category": "Team Leader",
-                    "texts": [
-                        {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
-                        },
-                        {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
-                        }
-                    ],
-                    "images": [
-                        {
-                            "src": "../images/portfolio/portfolio-06.jpg"
-                        }
-                    ],
-                    "path": "#!",
-                    "likeCount": 600,
-                    "url": ""
                 }
             ]
         },
