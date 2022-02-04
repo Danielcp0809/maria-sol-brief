@@ -6,7 +6,15 @@ import Anchor from "@ui/anchor";
 import Icon from "@ui/icon";
 import PortfolioModal from "@components/modal-portfolio";
 
-const PortfolioCard = ({ title, category, likeCount, image, path, texts }) => {
+const PortfolioCard = ({
+    title,
+    category,
+    likeCount,
+    image,
+    path,
+    texts,
+    url,
+}) => {
     const [show, setShow] = useState(false);
     return (
         <>
@@ -58,6 +66,7 @@ const PortfolioCard = ({ title, category, likeCount, image, path, texts }) => {
                 image={image}
                 texts={texts}
                 path={path}
+                url={url}
             />
         </>
     );
@@ -70,6 +79,7 @@ PortfolioCard.propTypes = {
     image: PropTypes.shape(ImageType).isRequired,
     path: PropTypes.string.isRequired,
     texts: PropTypes.arrayOf(PropTypes.shape(TextType)),
+    url: PropTypes.string,
 };
 
 export default PortfolioCard;

@@ -14,6 +14,7 @@ const PortfolioModal = ({
     category,
     path,
     texts,
+    url,
 }) => {
     return (
         <Modal
@@ -78,10 +79,17 @@ const PortfolioModal = ({
                                     <span>LIKE THIS</span>
                                     <ThumbsUp />
                                 </Button>
-                                <Button path={path}>
-                                    <span>VIEW PROJECT</span>
-                                    <ChevronRight />
-                                </Button>
+                                {url !== "" && (
+                                    <Button
+                                        path={path}
+                                        onClick={() => {
+                                            window.open(url, "_blank");
+                                        }}
+                                    >
+                                        <span>VIEW PROJECT</span>
+                                        <ChevronRight />
+                                    </Button>
+                                )}
                             </div>
                         </div>
                     </div>
@@ -99,6 +107,7 @@ PortfolioModal.propTypes = {
     category: PropTypes.string.isRequired,
     path: PropTypes.string.isRequired,
     texts: PropTypes.arrayOf(PropTypes.shape(TextType)),
+    url: PropTypes.string,
 };
 
 export default PortfolioModal;

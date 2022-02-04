@@ -24,7 +24,7 @@ const HeroArea = ({ data, id }) => {
                             },
                         },
                         color: {
-                            value: ["#ff014f"],
+                            value: ["#0dbbc2"],
                         },
                         shape: {
                             type: "circle",

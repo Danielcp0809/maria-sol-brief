@@ -23,9 +23,6 @@ const PricingCard = ({
                     <h2 className="title">{title}</h2>
                     <span>{subtitle}</span>
                 </div>
-                <div className="header-right">
-                    <span>{price}</span>
-                </div>
             </div>
             <div className="pricing-body">
                 {desc && <p className="description">{desc}</p>}
@@ -45,22 +42,6 @@ const PricingCard = ({
                                 <p>{el.title}</p>
                             </div>
                         ))}
-                    </div>
-                </div>
-            </div>
-            <div className="pricing-footer">
-                <Anchor path={orderLink} className="rn-btn d-block">
-                    <span>ORDER NOW</span>
-                    <ArrowRight />
-                </Anchor>
-                <div className="time-line">
-                    <div className="single-cmt d-flex">
-                        <Clock />
-                        <span>{deliveryTime} Days Delivery</span>
-                    </div>
-                    <div className="single-cmt d-flex">
-                        <Activity />
-                        <span>{revission} Revission</span>
                     </div>
                 </div>
             </div>

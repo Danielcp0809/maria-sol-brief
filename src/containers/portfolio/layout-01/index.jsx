@@ -5,6 +5,7 @@ import PortfolioCard from "@components/portfolio-card/layout-01";
 import { ItemType, SectionTitleType } from "@utils/types";
 
 const PortfolioArea = ({ data, id }) => {
+    console.log("data", data);
     return (
         <div
             className="rn-portfolio-area rn-section-gap section-separator"
@@ -38,6 +39,7 @@ const PortfolioArea = ({ data, id }) => {
                                 likeCount={item.likeCount}
                                 image={item.images?.[0]}
                                 texts={item.texts}
+                                url={item.url}
                             />
                         </div>
                     ))}

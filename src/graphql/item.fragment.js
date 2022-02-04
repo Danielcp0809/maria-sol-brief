@@ -8,6 +8,7 @@ export const query = graphql`
         description
         icon
         path
+        url
         texts {
             content
         }
