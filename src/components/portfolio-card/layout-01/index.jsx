@@ -37,7 +37,7 @@ const PortfolioCard = ({
                                 <Anchor path={path}>{category}</Anchor>
                             </div>
                             <div className="meta">
-                                <span>
+                                {/* <span>
                                     <button type="button">
                                         <Icon
                                             name="Heart"
@@ -46,7 +46,7 @@ const PortfolioCard = ({
                                         />{" "}
                                         {likeCount && likeCount}
                                     </button>
-                                </span>
+                                </span> */}
                             </div>
                         </div>
                         <h4 className="title">

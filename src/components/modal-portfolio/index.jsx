@@ -75,10 +75,10 @@ const PortfolioModal = ({
                                 </p>
                             ))}
                             <div className="button-group mt--20">
-                                <Button path={path} className="thumbs-icon">
+                                {/* <Button path={path} className="thumbs-icon">
                                     <span>LIKE THIS</span>
                                     <ThumbsUp />
-                                </Button>
+                                </Button> */}
                                 {url !== "" && (
                                     <Button
                                         path={path}

@@ -1,15 +1,15 @@
 module.exports = {
     siteMetadata: {
-        siteUrl: "https://www.yourdomain.tld",
+        siteUrl: "https://sol-soria.web.app",
         title: "Maria Sol Soria Moncayo - Personal Portfolio",
         description: "A brief trajectory description of María Sol Soria",
         author: "Maria Sol Soria",
         siteLanguage: "en",
-        image: "banner.jpg",
+        image: "home.jpg",
         titleTemplate: "inbio",
         twitterUsername: "@MARIASOLSORIA4",
         getform_url:
-            "https://getform.io/f/7a6695a7-c8e3-442c-bc2f-d46d3b9a535e",
+            "https://getform.io/f/be645ed5-3d7d-4e16-bf31-88f5c3f55941",
         socials: [
             {
                 id: 1,

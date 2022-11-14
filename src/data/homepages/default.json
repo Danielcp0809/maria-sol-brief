@@ -13,13 +13,13 @@
                 }
             ],
             "animated_texts": [
-                "Product Manager.",
-                "Entrepreneur.",
-                "Electronic Engineer"
+                "a Product Manager.",
+                "a Product Owner.",
+                "a Customer Success Spec."
             ],
             "texts": [
                 {
-                    "content": "I have a great passion and love for entrepreneurship and technology, which has allowed me to discover innate leadership and relationship skills. I enjoy generating strategies, executing them and working as a team with a clear vision towards a future full of technology"
+                    "content": " I'm Maria Sol Soria 👩‍💻 a Product Manager and Engineer with 3+ years of experience in B2B SaaS companies. I work closely with tech teams to define and lead the product strategy according to customer and business needs.   \nI have experience implementing cibersecurity and complience products in some on the biggest and recognized LATAM banks working closely with customers' executives teams."
                 }
             ],
             "skills": [
@@ -50,7 +50,7 @@
             ],
             "images": [
                 {
-                    "src": "../images/slider/principal_image.png",
+                    "src": "../images/slider/principal_image_2.png",
                     "alt": "Personal Portfolio Images"
                 }
             ]
@@ -73,7 +73,7 @@
                 {
                     "id": 2,
                     "title": "Project Management",
-                    "description": "I have experience creating Saas product roadmaps from conception to launch, driving product vision, defining go-to-market strategy, and leading design discussions.",
+                    "description": "I have developed the ability to prioritize/manage competing project needs and work on a team to develop solutions",
                     "icon": "CheckCircle",
                     "path": "#!"
                 },
@@ -118,7 +118,7 @@
                 {
                     "id": 1,
                     "title": "Kriptos AI & Cibersecurity Technologies",
-                    "category": "Product Owner",
+                    "category": "Product Manager",
                     "texts": [
                         {
                             "content": "kriptos is a growing solution dedicated to information classification using artificial intelligence."
@@ -436,10 +436,10 @@
                     "items": [
                         {
                             "id": 1,
-                            "title": "Sciences Bachelor with mathematical physicist specialisation",
+                            "title": "Sciences Baccalaureate in  physical - mathematical",
                             "subtitle": "SSCC Rumipamba High School | Quito - Ecuador (2008 - 2013)",
-                            "rating": "4.30/5",
-                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "rating": "",
+                            "description": "When I was a high school student, I liked to be a team leader of every project I had. Also, I used to spend time with my frinds"
                         }
                     ]
                 },
@@ -454,7 +454,7 @@
                             "id": 1,
                             "title": "Electronic and Control Engineer with Cum Laude mention",
                             "subtitle": "Escuela Politécnica Nacional | Faculty of Electrical and Electronic Engineering | Quito - Ecuador (2014 - 2020)",
-                            "rating": "4.30/5",
+                            "rating": "",
                             "description": "I used to be a team leader and robotic developer in robotics club as well as a chapter president and member of IEEE EPN Branch"
                         }
                     ]
@@ -651,35 +651,35 @@
                             "id": 1,
                             "title": "CEO & Founder",
                             "subtitle": "uShops - Ecommerce Company (2020 - 2021)",
-                            "rating": "4.30/5",
+                            "rating": "",
                             "description": "I used to transmit the vision and mission of the company internally and externally. Planning of commercial and marketing strategies, taking care of 200 clients and I supervised the creation and construction of teams (25 people)."
                         },
                         {
                             "id": 2,
                             "title": "Product Manager & Founder",
                             "subtitle": "uShops - Ecommerce Company (2020 - 2020)",
-                            "rating": "4.50/5",
+                            "rating": "",
                             "description": "I gave support all phases of development from initial proposal development through successful test, demonstration, and operations. I used to lead 4 software development and UX/UI design teams. I established a clear strategy and roadmap for improving platform quality across areas and metrics (performance, UX, usability, and usefulness)."
                         },
                         {
                             "id": 3,
                             "title": "Project Manager",
                             "subtitle": "EGM Robotics (2020 - 2021)",
-                            "rating": "4.80/5",
+                            "rating": "",
                             "description": "I was in charge of management of 3 software projects with government entities (UNODC, IOM, Ministery of government), Team leadership and project management of a GAS delivery application and project management of an inventory platform."
                         },
                         {
                             "id": 4,
                             "title": "Researcher Assistant",
                             "subtitle": "Escuela Politécnica Nacional (2019 - 2019)",
-                            "rating": "4.80/5",
+                            "rating": "",
                             "description": "100% Process management with suppliers, stakeholders and area directors and Management of public purchases (instrumentation and tech products)."
                         },
                         {
                             "id": 5,
                             "title": "Engineering and Data Research",
                             "subtitle": "Escuela Politécnica Nacional (2018 - 2019)",
-                            "rating": "4.80/5",
+                            "rating": "",
                             "description": "I used to lead, development and 100% implement hardware and software systems of an intelligent temperature reactor."
                         }
                     ]
@@ -695,14 +695,14 @@
                             "id": 2,
                             "title": "Product Implementation Specialist",
                             "subtitle": "Kriptos | AI & Cibersecurity Company (Oct 2021 - Present)",
-                            "rating": "4.95/5",
+                            "rating": "",
                             "description": "(Product management) Identify 40-50 product features that add value to our 28 customers. Partner with 8 engineering leaders within to help guide feature prioritization, identify customer impact. Manage and improve of 5 QA processes for the launch of new products. Help creating actions for customer success. (Project Management) Understand 28 customer user journeys to build a trusted relationship and workflows with them. Helps 8 customers adopt product technologies. Manage and lead the solution of problems together with the support team."
                         },
                         {
                             "id": 3,
                             "title": "Customer Support Engineer",
                             "subtitle": "Kriptos | AI & Cibersecurity Company (Feb 2021 - Oct 2021)",
-                            "rating": "5.00/5",
+                            "rating": "",
                             "description": "90% Experience effectively working with multiple functional areas (Product Management, Engineering, Sales, Customer Support, and Marketing). Develop and execute solutions to problems by collaborating across areas. Compile and communicate 15 key insights and offer recommendations. Diagnose and troubleshoot customer technical problems using technologies like Python, Kubernetes, Google Cloud, AWS, Mongo DB, SQL"
                         }
                     ]
@@ -834,7 +834,7 @@
             "items": [
                 {
                     "id": 1,
-                    "title": "Alfonzo Villalba",
+                    "title": "Alfonso Villalba",
                     "subtitle": "Kriptos",
                     "designation": "COO at Kriptos / Techstart '18 / Cybersecurity / IA",
                     "projectTitle": "Product Implementation specialist",

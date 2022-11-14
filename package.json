@@ -17,7 +17,8 @@
     "serve:prefix": "gatsby serve --prefix-paths",
     "format": "prettier --write \"**/*.{js,jsx,,json,md}\"",
     "lint": "eslint --ignore-path .gitignore . --ext js --ext jsx",
-    "lint:fix": "npm run format & npm run lint --fix"
+    "lint:fix": "npm run format & npm run lint --fix",
+    "deploy": "gatsby build && firebase deploy"
   },
   "dependencies": {
     "aos": "^2.3.4",
